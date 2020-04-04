@@ -1,0 +1,13 @@
+.paqueta-single-enquete {margin-bottom: 30px;margin-top: 20px;}
+.paqueta-single-enquete .obrigado-voto {text-align: center;}
+.paqueta-single-enquete .poll-name {text-align: center;margin-bottom: 0;}
+.paqueta-single-enquete .poll-description {text-align: center;font-size: 14px;font-weight: normal;letter-spacing: 1px;}
+.paqueta-single-enquete .wp-polls-ans {margin-bottom: 25px;}
+.paqueta-single-enquete .paqueta-single-answer {padding: 10px;}
+.paqueta-single-enquete .paqueta-single-answer label {display: block;text-align: center;padding: 10px 20px;box-shadow: 0 0 5px rgba(0,0,0,.2);border: 4px solid transparent;cursor: pointer;}
+.paqueta-single-enquete .paqueta-single-answer label:before {content: "";font-family: "FontAwesome";position: absolute;bottom: -15px;line-height: 1;font-size: 60px;color: #4caf50;left: -15px;background: #fff;opacity: 0;}
+.paqueta-single-enquete .paqueta-single-answer label a {cursor: zoom-in;display: block;}
+.paqueta-single-enquete .paqueta-single-answer label h4 {margin-top: 10px;margin-bottom: 0;font-size: 16px;}
+.paqueta-single-enquete .paqueta-single-answer input {display: none;}
+.paqueta-single-enquete .paqueta-single-answer input:checked+label {border-color: #ffb116;}
+.paqueta-single-enquete .paqueta-single-answer input:checked+label:before {opacity: 1;}
